@@ -34,26 +34,3 @@ is 'reified;' created. History is Material; Material is mutable.
 
 --
 
-To hide an idea is to conceal it. I argue to conceal is the entire event. Those who worship abandon themselves to their object. Self Abandonment, or 'ego death,' is the devotee's
-'axis mundi,' the point upon which their worship turns. Relinquishment of the self allows access into the inexpressable, where worship occurs.
- It is to say the revelation occurs in a realm where the self is non-essential. 
-
-What deliniates worship from its object is its inexpressability. It cannot be uttered, lest the event be made profane. 
-
-What casts doubt upon my generation's obsession with gender is its apparent 'affect,' its expressability. It remains a set of characteristics, an idealogue, 
-a manifesto for liberation. Declaring one's own gender in our time should be redundant; there are no behavioral limitations for people of either gender. Feminist critique held 
-discrimination based on gender an act of inequality, emerging from non-existent constraints (set by Christian men). That there are constraints, or beliefs of constraints, to engendered 
-behavior, alludes to faith in a conservative blueprint for 'right' behavior. That a man could be so affected by his effeminate behavior that he must identify as a 'she' is a step backwards 
-into Fundamentalism.
-
-Phenomenological experience is ineffable-- to utter it betrays its substance. If its expression is uttered, then the event (the event being 'gender,' if it is anything but) 
-is profaned.  And if it is not sacred then it needs not be sacralized. It is then not above criticism, doubt.
-
---
-
-Sex is elusive. It involves consenting adult partners in physical contact, where physical indicates human bodies. During intercourse much is done to stimulate both the male penis and the 
-female vagina. Outside of copulation, sex is a game, an intrigue, a play with character, verse, tone, and self. Much of sex is frustration. Those who are good at it need say little about
-it. 
-
---
-
