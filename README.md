@@ -34,3 +34,11 @@ is 'reified;' created. History is Material; Material is mutable.
 
 --
 
+
+To hide an idea is to conceal it. I argue to conceal is the entire event. Those who worship abandon themselves to their object. Self Abandonment, or 'ego death,' is the devotee's
+'axis mundi,' the point upon which their worship turns. Relinquishment of the self allows access into the inexpressable, where worship occurs.
+ It is to say the revelation occurs in a realm where the self is non-essential. 
+
+What deliniates worship from its object is its inexpressability. It cannot be uttered, lest the event be made profane.  Phenomenological experience is ineffable-- to utter it betrays its substance. If its expression is uttered, then the experience 
+is profaned.  And if it is not sacred then it needs not be sacralized. It is then not above criticism, doubt.
+
