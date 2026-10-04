@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "id": "moderntexts",
+  "repo": "Ardhtor/ModernTexts",
+  "branch": "main",
+  "role": "TEXT / PHILOSOPHICAL CORPUS",
+  "medium": "texts",
+  "description": "Corpus participant for passages, concepts, analysis, ritual language, and philosophical material.",
+  "outputs": [
+    "passages",
+    "concepts",
+    "analysis",
+    "mythic language"
+  ],
+  "exchange": {
+    "target": "Ardhtor/GEEHUB",
+    "ledger": "hub/exchange.json",
+    "dropbox": "/GEEHUB/corpus/exchange/"
+  }
+}
